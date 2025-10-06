@@ -8,6 +8,7 @@ LAB1 - Section B
 */
 int main(){
 /*
+
 1. The function pow(x,y) raises x to the power of y
 Header file to include is <cmath> or <math.h>
 */

@@ -6,8 +6,8 @@ int main() {
     bankAccount customers[10]; // array of 10 customers
 
     // Example: create two accounts manually
-    customers[0] = bankAccount("Alice Johnson", "saving", 5000.0, 0.03);
-    customers[1] = bankAccount("Bob Smith", "checking", 2500.0, 0.02);
+    customers[0] = bankAccount("Foureiratou ZAKARI YAOU IDI", "saving", 5000.0, 0.03);
+    customers[1] = bankAccount("Fatme ALI", "checking", 2500.0, 0.02);
 
     // Deposit and withdraw
     customers[0].deposit(1000);
